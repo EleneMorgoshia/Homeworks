@@ -1,5 +1,6 @@
 # print("this is a lesson 2 ") 
  
+#GROUP 102
  #  #string and its abilities
 
 # #for short strings
@@ -103,44 +104,101 @@
 #13)replace-replacing the variable to another variable.
 
 #-------------------------------
-#HOMEWORK
+#HOMEWORK1
 
-is_longstring="""Choosing profession is one of the most important dicisions in your life. 
-It is the time , when you are leading not just with  your passion,but also the job perspective . That's why, you should try to find 
-a job,which will be a mix of 2 valuable things. First- love and interest  in the spacific field , second- High INCOME """
+# is_longstring="""Choosing profession is one of the most important dicisions in your life. 
+# It is the time , when you are leading not just with  your passion,but also the job perspective . That's why, you should try to find 
+# a job,which will be a mix of 2 valuable things. First- love and interest  in the spacific field , second- High INCOME """
 
-print(is_longstring[-1])
-
-
+# print(is_longstring[-1])
 
 
 
-print(is_longstring)
 
-name="Elene Morgoshia"
-print(len(name))
-print(name[0])
-print(name[14])
-print(name[0:15])
-print(name[0:15:2])
-print(name.lower()) #do not forget ()
-name2="IOANE"
-print(name2.upper())
-if  True:
-       print("YES")
 
-print(name2.replace("I",":)"))
-print(name2.replace("E",""))
-print(is_longstring.replace("o",":)"))
-print(is_longstring.upper())
-print(is_longstring.lower())
-print(is_longstring[0:20:2])
-print(is_longstring[:30])
-print(is_longstring[30:40])
-print("I"in is_longstring)
-print("k"not in is_longstring)
-print(is_longstring[-1:-3:-10]+"abcd")
+# print(is_longstring)
 
-name3="  M O R G O   "
-print(name3.strip()) #what if i have space in between string letters-  It will not remove spaces between the letters!
-print(name3.replace(" ",""))
+# name="Elene Morgoshia"
+# print(len(name))
+# print(name[0])
+# print(name[14])
+# print(name[0:15])
+# print(name[0:15:2])
+# print(name.lower()) #do not forget ()
+# name2="IOANE"
+# print(name2.upper())
+# if  True:
+#        print("YES")
+
+# print(name2.replace("I",":)"))
+# print(name2.replace("E",""))
+# print(is_longstring.replace("o",":)"))
+# print(is_longstring.upper())
+# print(is_longstring.lower())
+# print(is_longstring[0:20:2])
+# print(is_longstring[:30])
+# print(is_longstring[30:40])
+# print("I"in is_longstring)
+# print("k"not in is_longstring)
+# print(is_longstring[-1:-3:-10]+"abcd")
+
+# name3="  M O R G O   "
+# print(name3.strip()) #what if i have space in between string letters-  It will not remove spaces between the letters!
+# print(name3.replace(" ",""))
+
+#----------------------------
+#GROUP 4
+
+# print(7+10)
+# print(10-5)
+# print(10*4)
+# print(10/2)
+# print(10//2)
+# print(5//4)
+# print(20%2)
+# print(40%6) #4
+
+
+# price=80
+# price=100
+# print(price) #
+
+#classwork
+
+mum_age=50
+print(mum_age)
+dad_age=55
+print(dad_age)
+Nika_age=16
+print(Nika_age)
+Demetre_age=12
+print(Demetre_age)
+grandma_age=78
+print(grandma_age)
+grandpa_age=82
+print(grandpa_age)
+
+#after 5 years
+string1="----------------------"
+print(string1)
+mum_age=55
+print(mum_age)
+dad_age=60
+print(dad_age)
+Nika_age=21
+print(Nika_age)
+Demetre_age=17
+print(Demetre_age)
+grandma_age=83
+print(grandma_age)
+grandpa_age=87
+print(grandpa_age)
+
+#Also you can write  like that: mum_age+=5 
+
+
+
+#-----------------------------
+#HOMEWORK2: 1)NEW WORDS 2)QUISE 
+
+ 

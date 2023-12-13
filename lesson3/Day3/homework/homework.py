@@ -1,6 +1,6 @@
 #homework:
 #use  input, %,if ,+= ; and 
-#ask user to enter 3 numbers.then you should sum the odd numbers and print . 
+#ask user to enter 3 numbers.then sum the odd numbers and print . 
 num1=int(input("enter num1: "))
 num2=int(input("enter num2: "))
 num3=int(input("enter num3: "))

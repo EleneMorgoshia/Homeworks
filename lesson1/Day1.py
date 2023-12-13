@@ -1,218 +1,59 @@
-# from turtle import*
-
-# #task1:drawing the square
-# speed(3)
-# width(5)
-# color("black")
-# begin_fill()
-# forward(150)
-# left(90)
-# forward(150)
-# left(90)
-# forward(150)
-# left(90)
-# forward(150)
-# end_fill()
+# name=" Elene" #str (string)
+# surname="Morgoshia" #str (string)
+# age=19 #int(integer)
+# height=167.2 #float
+# is_hardworking=True #bool (boolean) - true or false 
+# print(name+" " +surname)
 
 
-# #task2: drawing the roof
+# print(type(name)) #str
+# print(type(surname)) #str
+# print(type(age))#int
+# print(type(height))#float
+# print(type(is_hardworking)) #bool
 
-# penup()
-# goto(150,150)
-# pendown()
-# right(150)
-# color("red")
-# begin_fill()
-# forward(150)
-# left(120)
-# forward(150)
-# end_fill()
+# #task1:print about you
+# print(name+" "+surname+" "+ str(age)+" "+str(height)+" "+str(is_hardworking)) 
 
-# #task3:drawing the door
-# penup()
-# goto(60,0)
-# pendown()
-# left(210)
-# color("blue")
-# begin_fill()
-# forward(80)
-# right(90)
-# forward(40)
-# right(90)
-# forward(80)
-# end_fill()
+# string1="My name is"
+# string2=","
+# string3="My surname is"
+# string4=","
+# string5="I am "
+# string6="Years old"
+# string7=","
+# string8="My height is"
+# string9=","
+# string10="Hardworking: "
 
+# print(string1+name+" "+string2+" "+string3+" "+surname+" "+string4+" "+string5+" "+str(age)+" "+string6+" "+string7+" "+ string8+" "+str(height)+" "+string9+" "+string10+" "+str(is_hardworking))
 
-# #task4:drawing the windows
-
-# #the first one
-# penup()
-# goto(20,120)
-# pendown()
-# left(90)
-# begin_fill()
-# color("brown")
-# forward(30)
-# right(90)
-# forward(30)
-# right(90)
-# forward(30)
-# right(90)
-# forward(30)
-# end_fill()
-
-# penup()
-# goto(20,105)
-# pendown()
-# right(90) 
-# color("black")
-# forward(30)
-
-# penup()
-# goto(35,90)
-# pendown()
-# left(90)
-# color("black")
-# forward(30)
-
-# #the second one
-
-# penup()
-# goto(110,120)
-# pendown()
-# right(90)
-# begin_fill()
-# color("brown")
-# forward(30)
-# right(90)
-# forward(30)
-# right(90)
-# forward(30)
-# right(90)
-# forward(30)
-# end_fill()
-
-# penup()
-# goto(110,105)
-# pendown()
-# right(90)
-# color("black")
-# forward(30)
-
-# penup()
-# goto(125,90)
-# pendown()
-# left(90)
-# color("black")
-# forward(30)
-
-# exitonclick()
-from turtle import*
-
-#task1:drawing the square
-speed(3)
-width(5)
-color("black")
-begin_fill()
-forward(150)
-left(90)
-forward(150)
-left(90)
-forward(150)
-left(90)
-forward(150)
-end_fill()
+name=" Elene" #str (string)
+surname="Morgoshia" #str (string)
+age=19 #int(integer)
+height=167.2 #float
+is_hardworking=True #bool (boolean) - true or false 
+print(name+" " +surname)
 
 
-#task2: drawing the roof
+print(type(name)) #str
+print(type(surname)) #str
+print(type(age))#int
+print(type(height))#float
+print(type(is_hardworking)) #bool
 
-penup()
-goto(150,150)
-pendown()
-right(150)
-color("red")
-begin_fill()
-forward(150)
-left(120)
-forward(150)
-end_fill()
+#task1:print about you
+print(name+" "+surname+" "+ str(age)+" "+str(height)+" "+str(is_hardworking)) 
 
-#task3:drawing the door
-penup()
-goto(60,0)
-pendown()
-left(210)
-color("blue")
-begin_fill()
-forward(80)
-right(90)
-forward(40)
-right(90)
-forward(80)
-end_fill()
+string1="My name is"
+string2=","
+string3="My surname is"
+string4=","
+string5="I am "
+string6="Years old"
+string7=","
+string8="My height is"
+string9=","
+string10="Hardworking: "
 
-
-#task4:drawing the windows
-
-#the first one
-penup()
-goto(20,120)
-pendown()
-left(90)
-begin_fill()
-color("brown")
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-end_fill()
-
-penup()
-goto(20,105)
-pendown()
-right(90) 
-color("black")
-forward(30)
-
-penup()
-goto(35,90)
-pendown()
-left(90)
-color("black")
-forward(30)
-
-#the second one
-
-penup()
-goto(110,120)
-pendown()
-right(90)
-begin_fill()
-color("brown")
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-end_fill()
-
-penup()
-goto(110,105)
-pendown()
-right(90)
-color("black")
-forward(30)
-
-penup()
-goto(125,90)
-pendown()
-left(90)
-color("black")
-forward(30)
-
-exitonclick()
+print(string1+name+" "+string2+" "+string3+" "+surname+" "+string4+" "+string5+" "+str(age)+" "+string6+" "+string7+" "+ string8+" "+str(height)+" "+string9+" "+string10+" "+str(is_hardworking))

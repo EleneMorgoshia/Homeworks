@@ -92,3 +92,8 @@
 #homework:
 #use  input, %,if ,+=  and 
 #ask user to enter 3 numbers.then you should sum the odd numbers and print . 
+
+#-------------------------------------------
+#REVIEW
+#1)format- my_sentence="My name is {0},my surname is {1}, i am {2} years old".format("elene","morgoshia",19)
+#2)

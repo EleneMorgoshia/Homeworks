@@ -94,3 +94,21 @@
 #ask user to enter 3 numbers.then you should sum the odd numbers and print . 
 
 #-------------------------------------------
+#REVIEW
+#1)format- my_sentence="My name is {0},my surname is {1}, i am {2} years old".format("elene","morgoshia",19)
+
+#2)if else - if 10>5:
+#                print("Yes")
+#             else:
+#               print("No")
+
+#3)input and output-   Input-Data given to a program.(mouse)  #input function always has string type value as a parameter !
+#  Output- Result produced by the program. (monitor)
+# input example: first_name=input("enter your name ") - when user enters his/her name, this will be the value of the variable called first_name
+
+#4)#guideline of incresing values- my_age+=3- it means: my_age=my_age+3
+
+#5)#how to change values type.(e.g how to change string value with int value)- 
+#     your_age=(input("Enter your age pls: ")) # add int in order to have integer type for age 
+
+#6)% operator -# print(20%6) # 6*3=18, 20-18=2 , so,result will be 2

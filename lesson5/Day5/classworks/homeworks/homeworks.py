@@ -1,0 +1,37 @@
+#group 4:sololearn-conditional statment)+
+#2)ask user to enter his/her age and his/her father's age
+#print each year how older his/her father will be than him/her
+#3)print every odds and evens from 0 to 30. and write wich one is odd and which one is even.
+
+#group102: ask user to enter his/her name and print which index is the vowel
+
+#group4:work2
+
+# son_age=int(input("Enter your age: "))
+# father_age=int(input("Enter your father's age: "))
+# year_variable=int(input("Enter year"))
+# #son_age=10 , father_age=15
+# while  year_variable>0: 
+#     print("son's age:{}, father's age:{} ".format(son_age,father_age))
+#     print(" father is  "+ str(father_age-son_age) + " "+ " years older than his son" + " "+ "in" + " " +  str(year_variable)+" year")
+#     year_variable+=1
+#     father_age+=1
+#     son_age+=1
+
+
+#work3:
+# for i in range(0,30):
+#     if i%2==1:
+#         print("Number {} is odd ".format(i))
+#     elif i%2==0:
+#         print("Number {} is even".format(i))
+
+#group102:ask user to enter his/her name and print the letters indexes that are  vowel.
+user_name=input("Enter your name: ")
+# print(len(user_name))
+
+for j in  range(len(user_name)):
+        #user_name[j]-letter print(j)- index
+         if user_name[j] in "aeiou":
+                print("the leter"+ " "+ str(user_name[j])+" "+" is on" +" "+ str(j)+ " "+"index and it is vowel!")
+

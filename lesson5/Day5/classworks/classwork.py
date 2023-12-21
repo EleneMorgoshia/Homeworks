@@ -127,3 +127,20 @@
 #2)ask user to enter his/her name and his/her father's name
 #print each year how older his/her father will be than him/her.
 #3)print every odds and evens from 0 to 30. and write wich one is odd and which one is even.
+#-----------------------------
+#REVIEW
+#1)for loop- for i in range(7): - i-iterative variable! range-function that is written for python.
+# range()-in () we have to write number that will be the amount of looping 
+# range(7)- range(7)=0,1,2,3,4,5,6 same as range(0,7)
+#range(5,10,2)=5,7,9 start-finish-
+
+# example: #user_name[j]-letter print(j)- index
+#user_name=input("enter your age : ")
+#for j in  range(len(user_name)):
+  #       if user_name[j] in "aeiou":
+
+#2)while loop- syntax:
+# i=0
+# while i<len(full_name):
+#      print(full_name[i])
+#      i+=1

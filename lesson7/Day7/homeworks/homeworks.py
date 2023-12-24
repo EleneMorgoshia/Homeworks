@@ -10,18 +10,18 @@
 
 
 #homework1:
-group_leaders_names=["Dato Tyeshelashvili","Nikoloz Filishvili","Gabriel Molodini","Dato janezashvili"]
-name_of_my_leader=group_leaders_names[0]
-print("My leader's name is: {}".format(name_of_my_leader))
+# group_leaders_names=["Dato Tyeshelashvili","Nikoloz Filishvili","Gabriel Molodini","Dato janezashvili"]
+# name_of_my_leader=group_leaders_names[0]
+# print("My leader's name is: {}".format(name_of_my_leader))
 
-# #homework2
-group_members=["Elene morgoshia","Lizi Rusadze","Tamuna Gelenava","Sali Saltauras","Nikoloz Morgoshia","Demetre Morgoshia","Erekle Kapanadze"]
-print(group_members[1:5])
+# # #homework2
+# group_members=["Elene morgoshia","Lizi Rusadze","Tamuna Gelenava","Sali Saltauras","Nikoloz Morgoshia","Demetre Morgoshia","Erekle Kapanadze"]
+# print(group_members[1:5])
 
-#homework3
-fruits_plus_one_vegetable=["banana","apple","orange","potato","cucumber","grapes"]
-fruits_plus_one_vegetable[4]="Pear"  #on the left should write the valur of the list (the one you want to change) and on the right, you should write new(changed) value
-print(fruits_plus_one_vegetable)
+# #homework3
+# fruits_plus_one_vegetable=["banana","apple","orange","potato","cucumber","grapes"]
+# fruits_plus_one_vegetable[4]="Pear"  #on the left should write the valur of the list (the one you want to change) and on the right, you should write new(changed) value
+# print(fruits_plus_one_vegetable)
 
 #-------------------------------
 #group 102: 
@@ -30,14 +30,14 @@ print(fruits_plus_one_vegetable)
 
 
 # homework n1:
-scores = [20, 43, 56, 73, 10, 6, 87, 45, 97]
-max = scores[0]
-i = 0
-while i < len(scores):
-    if scores[i] > max:
-        max = scores[i]
-    i += 1
-print(max)
+# scores = [20, 43, 56, 73, 10, 6, 87, 45, 97]
+# max = scores[0]
+# i = 0
+# while i < len(scores):
+#     if scores[i] > max:
+#         max = scores[i]
+#     i += 1
+# print(max)
 
 
 
@@ -59,9 +59,3 @@ new_students.append(students[-4])
 new_students.append(students[-5])
 print(new_students)
 
-#it does not work :(((((((((
-# i=-1
-# while i<-5:
-#     new_students.append(students[i])
-# i-=1
-# print(new_students)
